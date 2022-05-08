@@ -10,7 +10,7 @@ It is a library to get data from websites.
 
 ```
 import webdata
-isup = webdata.upchk("example.com")
+isup = webdata.up_chk("example.com")
 if isup == True:
     print("Is up :)")
 else:
