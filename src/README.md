@@ -16,3 +16,5 @@ if isup == True:
 else:
     print("Down :(")
 ```
+## Documentation
+For documentation, check the [Github](github.com/89paradox/webdata)
