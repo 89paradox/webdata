@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+./webdata_paradox89.egg-info/PKG-INFO
+./webdata_paradox89.egg-info/SOURCES.txt
+./webdata_paradox89.egg-info/dependency_links.txt
+./webdata_paradox89.egg-info/top_level.txt

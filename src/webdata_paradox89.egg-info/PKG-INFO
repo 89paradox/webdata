@@ -1,0 +1,35 @@
+Metadata-Version: 2.1
+Name: webdata-paradox89
+Version: 0.0.1
+Summary: An easy way to get data from webpages.
+Home-page: https://github.com/paradox89/webdata
+Author: paradox89
+Author-email: 68936a@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/paradox89/webdata/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# webdata
+Get website info.
+
+## What is it??
+It is a library to get data from websites.
+
+## Examples
+
+### 1. Check if webpage up.
+
+```
+import webdata
+isup = webdata.upchk("example.com")
+if isup == True:
+    print("Is up :)")
+else:
+    print("Down :(")
+```
+
